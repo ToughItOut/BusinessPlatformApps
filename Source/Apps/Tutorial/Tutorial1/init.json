@@ -1,0 +1,10 @@
+{
+  "Install": {
+    "Pages": [
+      {
+        "name": "$SiteCommon$/pagesgallery/getting-started.html",
+        "displayname": "Getting Started"
+      }
+    ]
+  }
+}
